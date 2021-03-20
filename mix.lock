@@ -1,0 +1,4 @@
+%{
+  "faker": {:hex, :faker, "0.16.0", "1e2cf3e8d60d44a30741fb98118fcac18b2020379c7e00d18f1a005841b2f647", [:mix], [], "hexpm", "fbcb9bf1299dff3c9dd7e50f41802bbc472ffbb84e7656394c8aa913ec315141"},
+  "table_rex": {:hex, :table_rex, "3.1.0", "5a0408585768efdd0f72076b2db982feaa99bc99099212ddc9f9c6019d98d3c2", [:mix], [], "hexpm", "a054ec976933b9e8dae5f42a4a65d51c71b0026156978535b15b07c6d2534d23"},
+}
